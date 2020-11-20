@@ -8,6 +8,8 @@ baseurl:
 url: "https://www.csrhymes.com"
 permalink: pretty
 
+remote_theme: chrisrhymes/mere-blog-theme
+
 paginate: 6
 paginate_path: "/page:num"
 
